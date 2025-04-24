@@ -41,3 +41,11 @@ DOMAIN,rewards.hypixel.net
 # Koodo Mobile
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
+
+# 自定义直连
+rules:
+DOMAIN-SUFFIX,argotunnel.com,DIRECT
+DOMAIN,region1.v2.argotunnel.com,DIRECT
+IP-CIDR,198.18.0.0/15,DIRECT
+DOMAIN-SUFFIX,aiden85.xyz,DIRECT
+
