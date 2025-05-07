@@ -48,4 +48,4 @@ rules:
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN,region1.v2.argotunnel.com
 DOMAIN-SUFFIX,aiden85.xyz
-- IP,66.212.21.119
+- IP-CIDR,66.212.21.119/32,DIRECT
