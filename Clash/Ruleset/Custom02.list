@@ -4,3 +4,4 @@ DOMAIN,www.ramnode.com
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN,www.paypal.com
+IP-CIDR,66.212.21.119/32
