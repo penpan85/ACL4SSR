@@ -1,0 +1,20 @@
+# 内容：Microsoft 365
+# 数量：18条
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,officecdn.microsoft.com.edgesuite.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,officeppe.net
