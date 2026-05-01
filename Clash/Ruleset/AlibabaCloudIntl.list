@@ -1,0 +1,9 @@
+# Alibaba Cloud International
+# 阿里云国际站、国际控制台、国际账号登录
+
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,marketplace.alibabacloud.com
+DOMAIN,home-intl.console.aliyun.com
+DOMAIN-SUFFIX,signin-intl.aliyun.com
+DOMAIN,account.alibabacloud.com
+DOMAIN-SUFFIX,intl.aliyun.com
