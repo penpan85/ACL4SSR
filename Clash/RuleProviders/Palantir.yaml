@@ -1,0 +1,5 @@
+# Palantir services handled by the same policy group as OpenAI.
+# OpenClash imports this file as a Mihomo `domain` rule provider.
+payload:
+  - '+.palantir.com'
+  - '+.palantirfoundry.com'
